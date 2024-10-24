@@ -1,0 +1,14 @@
+body {
+    
+}
+  
+.navbar {
+  padding: 1rem;
+  background-color: blue;
+}
+
+.btn-primary:hover {
+    background-color: rgb(68, 146, 202);
+    color: white;
+  }
+
